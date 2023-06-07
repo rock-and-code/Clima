@@ -1,5 +1,5 @@
-# IT 634 Module Six Activity: Client Program to Check the Weather
-
+#Clima
+IT 634 Module Six Activity - A client program to check the weather
 This app provides a way to get weather data for a given location. It uses two APIs: the OpenWeather API and the National Weather Service API.
 
 # Features
